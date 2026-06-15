@@ -1,0 +1,6 @@
+{
+  "name": "Alpha+",
+  "description": "Boutique e-commerce premium d'iPhone à Pointe-Noire, République du Congo. Commandez sur WhatsApp, comparez les modèles et gérez l'inventaire en temps réel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
